@@ -6,7 +6,7 @@ Here we provide lectures about Machine Learning, Deep Learning, Computer Vision,
 
 Link to our channel: https://www.youtube.com/channel/UCQ2LpKbGQ1aIiAYDzvNs5pA
 
-Link to Course Playlist: https://www.youtube.com/watch?v=eHLOhhEJKA8&list=PLkL6GdDYbO46anL8kvZ9sFSdCxGuilRco
+Link to Course Playlist: https://www.youtube.com/playlist?list=PLkL6GdDYbO46anL8kvZ9sFSdCxGuilRco
 
 ## Lectures
 
