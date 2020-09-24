@@ -1,6 +1,6 @@
 # Artificial-Intelligence-Course
 
-This is the respository for the Artificial Intelligence Course we provide on youtube.
+This is the respository for the Artificial Intelligence Course we provide on youtube in **Hindi**.
 
 Link to our channel: https://www.youtube.com/channel/UCQ2LpKbGQ1aIiAYDzvNs5pA
 
