@@ -2,6 +2,8 @@
 
 This is the respository for the Artificial Intelligence Course we provide on youtube in **Hindi**.
 
+Here we provide lectures about Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Big Data from basics.
+
 Link to our channel: https://www.youtube.com/channel/UCQ2LpKbGQ1aIiAYDzvNs5pA
 
 Link to Course Playlist: https://www.youtube.com/watch?v=eHLOhhEJKA8&list=PLkL6GdDYbO46anL8kvZ9sFSdCxGuilRco
