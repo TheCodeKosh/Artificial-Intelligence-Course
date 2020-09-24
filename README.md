@@ -1,6 +1,10 @@
 # Artificial-Intelligence-Course
 
-This is the respository for the course we provide on Artificial Intelligence.
+This is the respository for the Artificial Intelligence Course we provide on youtube.
+
+Link to our channel: https://www.youtube.com/channel/UCQ2LpKbGQ1aIiAYDzvNs5pA
+
+Link to Course Playlist: https://www.youtube.com/watch?v=eHLOhhEJKA8&list=PLkL6GdDYbO46anL8kvZ9sFSdCxGuilRco
 
 ## Lectures
 
