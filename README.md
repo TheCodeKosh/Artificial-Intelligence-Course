@@ -13,4 +13,5 @@ Link to Course Playlist: https://www.youtube.com/playlist?list=PLkL6GdDYbO46anL8
 | Lecture | Video Link | Code Link |
 | ------- | ---------- | --------- |
 | 1. Difference Between AI, ML, DL, NLP and Big Data | https://www.youtube.com/watch?v=eHLOhhEJKA8 | |
-| 2. Python Library For Machine Learning : NumPy | https://www.youtube.com/watch?v=Sw-rWJwaHMk | https://github.com/TheCodeKosh/Artificial-Intelligence-Course/blob/master/Python%20Librabies/Numpy/Numpy.ipynb |
+| 2. Google Colab : Practical Introduction For Data Science | https://www.youtube.com/watch?v=vJSNC9IABG8 | |
+| 3. Python Library For Machine Learning : NumPy | https://www.youtube.com/watch?v=Sw-rWJwaHMk | https://github.com/TheCodeKosh/Artificial-Intelligence-Course/blob/master/Python%20Librabies/Numpy/Numpy.ipynb |
